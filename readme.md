@@ -29,7 +29,7 @@ mvn clean package
 java -jar target/task-0.0.1-SNAPSHOT.jar
 ```
 
-##Instruction to run the test cases.
+## Instruction to run the test cases.
 1. Run following command from root of the project.
 ```
 mvn test
